@@ -1,3 +1,4 @@
+//comment added
 var loaded = -486;
  function animateBar(){
      setTimeout(function() { 
